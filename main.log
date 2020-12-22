@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  19 DEC 2020 11:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  22 DEC 2020 18:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1265,7 +1265,7 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 169.
 <<t2a.cmap>>
-<Pictures//HSElogo.pdf, id=88, 597.50786pt x 845.04686pt>
+<Pictures//HSElogo.pdf, id=120, 597.50786pt x 845.04686pt>
 File: Pictures//HSElogo.pdf Graphic file (type pdf)
 <use Pictures//HSElogo.pdf>
 Package pdftex.def Info: Pictures//HSElogo.pdf  used on input line 184.
@@ -1290,39 +1290,68 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.193 	\newpage
-                [1] (./TeX_files/1.tex) [2] (./TeX_files/2.tex) [3]
-(./TeX_files/3.tex) [4] (./TeX_files/4.tex) [5] (./TeX_files/5.tex) [6]
-(./TeX_files/6.tex) [7] (./TeX_files/7.tex) [8] (./TeX_files/8.tex) [9]
-(./TeX_files/9.tex) [10] (./TeX_files/10.tex) [11] (./TeX_files/11.tex)
-[12] (./TeX_files/12.tex) [13] (./TeX_files/13.tex) [14] (./TeX_files/14.tex)
-[15] (./TeX_files/15.tex) [16] (./TeX_files/16.tex) [17] (./TeX_files/17.tex)
-[18] (./TeX_files/18.tex) [19] (./TeX_files/19.tex)
+                [1] (./TeX_files/1.tex
+<Pictures//1_refractor.png, id=176, 927.465pt x 327.2225pt>
+File: Pictures//1_refractor.png Graphic file (type png)
+<use Pictures//1_refractor.png>
+Package pdftex.def Info: Pictures//1_refractor.png  used on input line 17.
+(pdftex.def)             Requested size: 358.50317pt x 126.48784pt.
+<Pictures//1_reflector.jpg, id=178, 513.92pt x 188.705pt>
+File: Pictures//1_reflector.jpg Graphic file (type jpg)
+<use Pictures//1_reflector.jpg>
+Package pdftex.def Info: Pictures//1_reflector.jpg  used on input line 30.
+(pdftex.def)             Requested size: 358.50317pt x 131.64052pt.
+ [2 <./Pictures//1_refractor.png>]
+Overfull \hbox (5.5484pt too wide) in paragraph at lines 39--40
+[]\T2A/cmr/m/n/12 –адиотелескопы ра-бо-та-ют ан-тен-ной, ко-то-рый бы-ва-ют та-
+рел-ка-ми (как ре-флек-то-ры, т.е. огром-
+ []
 
+<Pictures//1_ratan.jpg, id=188, 2509.375pt x 1409.265pt>
+File: Pictures//1_ratan.jpg Graphic file (type jpg)
+<use Pictures//1_ratan.jpg>
+Package pdftex.def Info: Pictures//1_ratan.jpg  used on input line 47.
+(pdftex.def)             Requested size: 358.50317pt x 201.31693pt.
+[3 <./Pictures//1_reflector.jpg> <./Pictures//1_ratan.jpg>]
+<Pictures//1_grav.png, id=194, 476.27937pt x 358.84062pt>
+File: Pictures//1_grav.png Graphic file (type png)
+<use Pictures//1_grav.png>
+Package pdftex.def Info: Pictures//1_grav.png  used on input line 74.
+(pdftex.def)             Requested size: 358.50317pt x 270.12085pt.
+ [4] [5 <./Pictures//1_grav.png>]) [6] (./TeX_files/2.tex) [7] (./TeX_files/3.t
+ex) [8]
+(./TeX_files/4.tex) [9] (./TeX_files/5.tex) [10] (./TeX_files/6.tex) [11]
+(./TeX_files/7.tex) [12] (./TeX_files/8.tex) [13] (./TeX_files/9.tex) [14]
+(./TeX_files/10.tex) [15] (./TeX_files/11.tex) [16] (./TeX_files/12.tex)
+[17] (./TeX_files/13.tex) [18] (./TeX_files/14.tex) [19] (./TeX_files/15.tex)
+[20] (./TeX_files/16.tex) [21] (./TeX_files/17.tex) [22] (./TeX_files/18.tex)
+[23] (./TeX_files/19.tex) 
 AED: lastpage setting LastPage
-[20] (./main.aux)
+[24] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: EFF0E009AC069887993E8EBA3AA252DA;685.
+(rerunfilecheck)             Checksum: 1F5554E4BD5B039F8F1EBB591F9521CF;2959.
  ) 
 Here is how much of TeX's memory you used:
- 26089 strings out of 479916
- 476360 string characters out of 5886648
- 778114 words of memory out of 5000000
- 41988 multiletter control sequences out of 15000+600000
- 550709 words of font info for 73 fonts, out of 8000000 for 9000
+ 26155 strings out of 479916
+ 477511 string characters out of 5886648
+ 782345 words of memory out of 5000000
+ 42033 multiletter control sequences out of 15000+600000
+ 551527 words of font info for 74 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 96i,11n,99p,476b,374s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 96i,11n,99p,1761b,374s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/tex
 live/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2020/
-texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2020/texmf-dist
-/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2020/texmf-dist/fonts/typ
-e1/public/cm-super/sfcc1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/
-cm-super/sfrm1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/s
-frm1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pf
-b><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on main.pdf (21 pages, 175651 bytes).
+texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2020/texmf-dist
+/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2020/texmf-dist/fonts/typ
+e1/public/cm-super/sfbx2488.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/
+cm-super/sfcc1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/s
+frm1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pf
+b><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texl
+ive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
+Output written on main.pdf (25 pages, 997676 bytes).
 PDF statistics:
- 255 PDF objects out of 1000 (max. 8388607)
- 215 compressed objects within 3 object streams
- 41 named destinations out of 1000 (max. 500000)
- 190 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 332 PDF objects out of 1000 (max. 8388607)
+ 283 compressed objects within 3 object streams
+ 57 named destinations out of 1000 (max. 500000)
+ 274 words of extra memory for PDF output out of 10000 (max. 10000000)
 
