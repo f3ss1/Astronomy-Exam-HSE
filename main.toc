@@ -126,3 +126,4 @@
 \contentsline {subsection}{\numberline {19.4.\relax }Дипольный отталкиватель}{67}{subsection.19.4}%
 \contentsline {subsection}{\numberline {19.5.\relax }Химическая эволюция}{67}{subsection.19.5}%
 \contentsline {subsection}{\numberline {19.6.\relax }Реликтовое излучение}{67}{subsection.19.6}%
+\contentsline {subsection}{\numberline {19.7.\relax }Закон Хаббла}{68}{subsection.19.7}%
